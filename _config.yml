@@ -1,4 +1,5 @@
 title:
-#logo:
+logo: qr-cv.png
+description: qr-code
 show_downloads: false
 theme: jekyll-theme-minimal
