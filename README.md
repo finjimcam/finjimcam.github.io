@@ -35,7 +35,6 @@ Aspiring data analyst with a passion for football and a strong foundation in cod
 
 ## Work Experience
 
-<!-- Dropdown Menu for Filtering -->
 **Filter by Category:**
 <select id="categoryFilter" onchange="filterExperience()">
   <option value="all">All</option>
