@@ -44,31 +44,31 @@ Aspiring data analyst with a passion for football and a strong foundation in cod
 
 <div id="workExperience">
   <div class="experience football">
-    ### Role Title - Organisation Name
-    **Location:** City, Country  
-    **Dates:** Month Year - Month Year  
-    **Description:** Brief description of your responsibilities and achievements in this role.
+    <h3>Role Title - Organisation Name</h3>
+    <p><strong>Location:</strong> City, Country</p>
+    <p><strong>Dates:</strong> Month Year - Month Year</p>
+    <p><strong>Description:</strong> Brief description of your responsibilities and achievements in this role.</p>
   </div>
 
   <div class="experience football">
-    ### Role Title - Organisation Name
-    **Location:** City, Country  
-    **Dates:** Month Year - Month Year  
-    **Description:** Brief description of your responsibilities and achievements in this role.
+    <h3>Role Title - Organisation Name</h3>
+    <p><strong>Location:</strong> City, Country</p>
+    <p><strong>Dates:</strong> Month Year - Month Year</p>
+    <p><strong>Description:</strong> Brief description of your responsibilities and achievements in this role.</p>
   </div>
 
   <div class="experience coding">
-    ### Role Title - Organisation Name
-    **Location:** City, Country  
-    **Dates:** Month Year - Month Year  
-    **Description:** Brief description of your responsibilities and achievements in this role.
+    <h3>Role Title - Organisation Name</h3>
+    <p><strong>Location:</strong> City, Country</p>
+    <p><strong>Dates:</strong> Month Year - Month Year</p>
+    <p><strong>Description:</strong> Brief description of your responsibilities and achievements in this role.</p>
   </div>
 
   <div class="experience coding">
-    ### Role Title - Organisation Name
-    **Location:** City, Country  
-    **Dates:** Month Year - Month Year  
-    **Description:** Brief description of your responsibilities and achievements in this role.
+    <h3>Role Title - Organisation Name</h3>
+    <p><strong>Location:</strong> City, Country</p>
+    <p><strong>Dates:</strong> Month Year - Month Year</p>
+    <p><strong>Description:</strong> Brief description of your responsibilities and achievements in this role.</p>
   </div>
 </div>
 
@@ -90,7 +90,6 @@ function filterExperience() {
   }
 }
 </script>
-
 ---
 
 ## Skills
