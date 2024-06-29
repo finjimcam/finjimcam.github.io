@@ -80,13 +80,13 @@ Aspiring data analyst with a passion for football and a strong foundation in cod
   </div>
   <div class="all">
     <h3>Poker Dealer - Grosvenor Casinos</h3>
-    <p><strong>Location:</strong> City, Country</p>
+    <p><strong>Location:</strong> Glasgow</p>
     <p><strong>Dates:</strong> 2022 - 2023</p>
     <p><strong>Description:</strong> Managed poker games in a professional manner, ensuring adherence to casino rules and regulations. Maintained a calm and composed demeanour in high-pressure situations, ensuring a fair and enjoyable gaming experience for all players. Developed strong mathematical skills by quickly calculating odds and payouts. Built rapport with regular players, enhancing their overall experience and loyalty.</p>
   </div>
   <div class="all">
-    <h3>Washplant Technician - </h3>
-    <p><strong>Location:</strong> City, Country</p>
+    <h3>Washplant Technician - Albert Bartlett</h3>
+    <p><strong>Location:</strong> Glasgow</p>
     <p><strong>Dates:</strong> 2023</p>
     <p><strong>Description:</strong> Operated machinery and equipment in a production line, ensuring efficiency and safety. Followed standard operating procedures to maintain product quality and meet production targets. Demonstrated attention to detail by checking and measuring products for defects and making necessary adjustments.</p>
   </div>
