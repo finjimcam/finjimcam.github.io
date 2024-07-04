@@ -22,7 +22,7 @@ Aspiring data analyst with a passion for football and a strong foundation in cod
 **GitHub:** [Link to Project](https://github.com/finjimcam/Ngram)
 
 ### ComputVision Football tracker
-**Description:** tracker based on (https://www.youtube.com/watch?v=neBZ6huolkg&list=LL&index=32&t=178s) project as an intoduction to computer vision and object detection
+**Description:** tracker based on .[Code in a Jiffy's](https://www.youtube.com/watch?v=neBZ6huolkg&list=LL&index=32&t=178s) project as an intoduction to computer vision and object detection
 **Technologies:** Python, Django 
 **GitHub:** [Link to Project]()
 
