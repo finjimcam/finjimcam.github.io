@@ -16,20 +16,20 @@ Aspiring data analyst with a passion for football and a strong foundation in cod
 ---
 
 ## Coding Projects
-### Project Title 1
-**Description:** Brief description of the project, what technologies were used, and your role.  
-**Technologies:** Python, Pandas, NumPy, Matplotlib  
-**GitHub:** [Link to Project](https://github.com/yourprofile/project1)
+### Nonogram Generator
+**Description:** Making a program that creates nonogram puzzles based off images, demonstrating manipulation of an image with python with web implementation 
+**Technologies:** Python, Django 
+**GitHub:** [Link to Project](https://github.com/finjimcam/Ngram)
 
-### Project Title 2
-**Description:** Brief description of the project, what technologies were used, and your role.  
-**Technologies:** R, ggplot2, Shiny  
-**GitHub:** [Link to Project](https://github.com/yourprofile/project2)
+### ComputVision Football tracker
+**Description:** tracker based on () project as an intoduction to computer vision and object detection
+**Technologies:** Python, Django 
+**GitHub:** [Link to Project]()
 
-### Project Title 3
-**Description:** Brief description of the project, what technologies were used, and your role.  
-**Technologies:** SQL, Tableau, Excel  
-**GitHub:** [Link to Project](https://github.com/yourprofile/project3)
+### Football Stats Generator
+**Description:** Generate football stats as well as players and teams based off data created by previous project, with more advanced stats that aren't always provided
+**Technologies:** SQL, R, Python
+**GitHub:** [Link to Project]()
 
 ---
 ## Work Experience
