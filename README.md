@@ -5,7 +5,7 @@
 ---
 
 ## Profile
-Aspiring data analyst with a passion for football and a strong foundation in coding and data analysis. Currently a student with hands-on experience in various coding projects and football-related work. Seeking an opportunity to gain work experience in football data analysis in the UK.
+Aspiring data analyst with a passion for football, possessing a robust foundation in coding and Statistics . As a current student, I have acquired hands-on experience through various coding projects and related them back to football. Eager to further develop my skills and contribute to the field, off the field.
 
 ---
 
@@ -13,23 +13,6 @@ Aspiring data analyst with a passion for football and a strong foundation in cod
 **Univeristy of Glasgow**  
 *Degree:* BSc in Computer Science (Expected Graduation: 2026)  
 *Relevant Elective Studies:* Statistics
----
-
-## Coding Projects
-### Nonogram Generator
-**Description:** Making a program that creates nonogram puzzles based off images, demonstrating manipulation of an image with python with web implementation 
-**Technologies:** Python, Django 
-**GitHub:** [Link to Project](https://github.com/finjimcam/Ngram)
-
-### ComputVision Football tracker
-**Description:** tracker based on .[Code in a Jiffy's](https://www.youtube.com/watch?v=neBZ6huolkg&list=LL&index=32&t=178s) project as an intoduction to computer vision and object detection
-**Technologies:** Python, Django 
-**GitHub:** [Link to Project]()
-
-### Football Stats Generator
-**Description:** Generate football stats as well as players and teams based off data created by previous project, with more advanced stats that aren't always provided
-**Technologies:** SQL, R, Python
-**GitHub:** [Link to Project]()
 
 ---
 ## Work Experience
@@ -125,16 +108,22 @@ function filterExperience() {
 
 ---
 
-## Extracurricular Activities
-### Football Team Name
-**Role:** Player/Coach/Manager  
-**Description:** Brief description of your role and achievements in the team.
+## Coding Projects (Works in Progress)
+### Nonogram Generator
+**Description:** Making a program that creates nonogram puzzles based off images, demonstrating manipulation of an image with python with web implementation 
+**Technologies:** Python, Django 
+**GitHub:** [Link to Project](https://github.com/finjimcam/Ngram)
 
-### Tech Club/Organization
-**Role:** Member/Leader  
-**Description:** Brief description of your role and contributions.
+### ComputVision Football tracker
+**Description:** tracker based on .[Code in a Jiffy's](https://www.youtube.com/watch?v=neBZ6huolkg&list=LL&index=32&t=178s) project as an intoduction to computer vision and object detection. Github project is a clone of the orignial project but am currently merging the two together.
+**Technologies:** Python, Django 
+**GitHub:** [Link to Project](https://github.com/finjimcam/football_analysis)
+
+### Football Stats Generator
+**Description:** Generate football stats as well as players and teams based off data created by previous project, with more advanced stats that aren't always provided
+**Technologies:** SQL, R, Python
+**GitHub:** [Link to Project]()
 
 ---
-
 ## References
 Available upon request.
