@@ -5,7 +5,7 @@
 ---
 
 ## Profile
-Aspiring data analyst with a passion for football, possessing a robust foundation in coding and Statistics . As a current student, I have acquired hands-on experience through various coding projects and related them back to football. Eager to further develop my skills and contribute to the field, off the field.
+Aspiring coach with a passion for football and data analysis, possessing a robust foundation in coding and Statistics . As a current student, I have acquired hands-on experience through various coding projects and related them back to football. Eager to further develop my skills and contribute to the field, off the field.
 
 ---
 
